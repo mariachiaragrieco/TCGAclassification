@@ -1,6 +1,8 @@
 # classification-project
 Project in Python for Scientific Programming 2021 course (MSc in Bioinformatics for Computational Genomics) helded by Prof. Piro Rosario and Prof. Pinoli Pietro.
 
+The notebook can be viewed here [nbviewer](https://nbviewer.org/github/mariachiaragrieco/classification-project/blob/main/SP_python_grieco.ipynb)
+
 ## Aim
 The aim of this project is to analyze the TCGA GRCh38 Breast Cancer gene expression data taken from the [GenoSurf](http://geco.deib.polimi.it/genosurf/) interface using different machine learning techniques in order to classify normal and tumor samples.
 In this light, different classification techniques of machine learning have been compared:
